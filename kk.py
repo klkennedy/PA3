@@ -1,3 +1,4 @@
+#!/usr/bin/python
 # the following command will remove all the .txt files
 # find . -name "*.txt" -type f -delete
 import sys
